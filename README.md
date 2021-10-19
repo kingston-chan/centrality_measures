@@ -1,2 +1,2 @@
 # centrality_measures
-C program to find the closeness centrality and betweenness centrality
+C program to find the closeness centrality and betweenness centrality of a graph
